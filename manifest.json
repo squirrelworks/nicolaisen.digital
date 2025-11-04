@@ -1,7 +1,7 @@
 {
-  "name": "Hent en hund til mig",
-  "short_name": "hent en hund",
-  "description": "find en hund ... finder en hund",
+  "name": "nicolaisen.digital",
+  "short_name": "nicolaisen.digital",
+  "description": "Portfolio website experiment",
   "start_url": "./index.html",
   "scope": "./",
   "background_color": "#003366",
@@ -11,13 +11,13 @@
 
 
   "icons": [{
-      "src": "./img/android-chrome-192x192.png",
+      "src": "./assets/img/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     
     },
     {
-      "src": "./img/android-chrome-512x512.png",
+      "src": "./assets/img/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -28,14 +28,10 @@
     "short_name":"info",
     "description": "om min hund",
     "url": "./info.html",
-    "icons": [{"src": "./img/android-chrome-512x512.png","sizes": "512x512"}]
+    "icons": [{"src": "./assets/img/android-chrome-512x512.png","sizes": "512x512"}]
     
     }
   ] 
-
-
-  
-  
   
 
 }
