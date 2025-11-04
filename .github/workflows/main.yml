@@ -16,5 +16,5 @@ jobs:
         password: ${{ secrets.FTP_PASS }}
         protocol: ftp
         port: 21
-        server-dir: /nicolaisen.digital
+        server-dir: ./nicolaisen.digital/
          
