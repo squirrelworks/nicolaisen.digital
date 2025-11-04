@@ -1,5 +1,6 @@
-streetAR
-an ar experiment with ar.js and a-frame
+Nicolaisen.digital
+
+https://nicolaisen.digital
 
 
 
